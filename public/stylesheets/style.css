@@ -1,0 +1,41 @@
+.anunciosss {
+  background-color: rgb(135, 216, 189);
+  padding: 50px;
+}
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+table tr td img {
+  max-height: 20px;
+}
+
+table {
+  background-color: #00b7ff;
+  padding: 2px;
+  border: solid;
+}
+
+td {
+  padding: 5px;
+}
+
+button {
+  background-color: rgb(243, 98, 243);
+  padding: 12px;
+  border: none;
+  border-radius: 30px;
+}
+
+button a {
+  text-decoration: none;
+  background-color: rgb(243, 98, 243);
+  color: rgb(218, 218, 218);
+  font-weight: bold;
+}
